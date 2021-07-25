@@ -24,6 +24,7 @@
 
 ##### Senior Data Center Technician 
 *Oct 2017 – Present*
+
 *Microsoft*
 
 Currently facilitating growth in the Microsoft Cloud by managing and prioritizing data center ticketing queues and vendor coordination based on current resources and SLA requirements.
