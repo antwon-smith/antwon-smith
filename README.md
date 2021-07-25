@@ -12,6 +12,12 @@
 - how to use git and best practices when handling code.
 - the basics of HTML and markdown.
 
+### I enjoy:
+
+- Spending time with my family and raising my two amazing children.
+- Learning new things and practicing new skills.
+- Working for the company Microsoft (great culture)
+
 
 
 <!--
