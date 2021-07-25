@@ -8,9 +8,9 @@
  
 ### I'm currently learning:
 
-- what git is and why it's so important for managing source code.
-- how to use git and best practices when handling code.
-- the basics of HTML and markdown.
+- What git is and why it's so important for managing source code.
+- How to use git and best practices when handling code.
+- The basics of HTML and markdown.
 
 ### I enjoy:
 
