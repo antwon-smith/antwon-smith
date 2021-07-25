@@ -5,8 +5,12 @@
 # **Hello everyone** 👋
 
 *I'm Antwon, a data center technician who is new to coding but loving it so far!  Excited to see where these new skills takes me.*
+ 
+### I'm currently learning:
 
-
+- what git is and why it's so important for managing source code.
+- how to use git and best practices when handling code.
+- the basics of HTML and markdown.
 
 
 
