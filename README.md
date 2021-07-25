@@ -18,6 +18,18 @@
 - Learning new things and practicing new skills.
 - Working for the company Microsoft (great culture)
 
+---
+
+### *Professional*
+
+##### Senior Data Center Technician 
+*Oct 2017 – Present*
+*Microsoft*
+
+Currently facilitating growth in the Microsoft Cloud by managing and prioritizing data center ticketing queues and vendor coordination based on current resources and SLA requirements.
+
+In addition to my regular responsibilities, I am a Microsoft "Leaper", which means I'm a part of the apprenticeship program to train up to being a software engineer.  I did not have prior coding experience, but I've found that I thoroughly enjoy what I've learned so far!  I look forward to continuing this journey with Microsoft.
+
 
 
 <!--
