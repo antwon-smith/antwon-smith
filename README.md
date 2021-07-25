@@ -30,7 +30,10 @@ Currently facilitating growth in the Microsoft Cloud by managing and prioritizin
 
 In addition to my regular responsibilities, I am a Microsoft "Leaper", which means I'm a part of the apprenticeship program to train up to being a software engineer.  I did not have prior coding experience, but I've found that I thoroughly enjoy what I've learned so far!  I look forward to continuing this journey with Microsoft.
 
+### *Contact*
 
+- [Email](antwon.smith70@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/leamon-a-smith/)
 
 <!--
 **antwon-smith/antwon-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
