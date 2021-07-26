@@ -16,7 +16,7 @@
 
 - Spending time with my family and raising my two amazing children.
 - Learning new things and practicing new skills.
-- Working for the company Microsoft (great culture)
+- Working for the company Microsoft (great culture).
 
 ---
 
